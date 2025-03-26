@@ -66,8 +66,5 @@ A **Física Sem Partículas e o Modelo Núvem** oferecem uma nova base para rede
 
 A **Orpheus Blockchain**, ao integrar esses conceitos, cria uma **infraestrutura fluida, segura, escalável e sustentável**, pronta para **redefinir a economia digital e os sistemas computacionais descentralizados**.  
 
-🚀 **O próximo passo é consolidar a implementação no GitHub e iniciar os testes do primeiro protótipo da Orpheus Blockchain!**  
-
-📌 **Quais aspectos devemos priorizar na implementação?** 🔥  
 
 
