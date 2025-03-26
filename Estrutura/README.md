@@ -1,27 +1,9 @@
-orpheus-blockchain/
-│
-├── README.md               # Introdução ao projeto
-├── LICENÇA.md              # Direitos de uso
-│
-├── Documentação/           # Explicação técnica
-│   ├── VisaoGeral.md       # Como funciona o Orpheus Blockchain
-│   ├── FSP_ModeloNuvem.md  # Relação entre blockchain e FSP
-│   ├── Tokenomics.md       # Modelo econômico dos tokens
-│   └── Roadmap.md          # Próximas fases do projeto
-│
-├── SmartContracts/         # Código dos contratos inteligentes
-│   ├── OrpheusRegistry.sol # Registro de descobertas científicas
-│   ├── LicenseToken.sol    # Token para licenciamento de ideias
-│   └── NFTPatent.sol       # NFT para patentes científicas
-│
-├── API/                    # Backend para consulta ao blockchain
-│   ├── server.py           # API para buscar dados na blockchain
-│   ├── database.json       # Armazenamento temporário de metadados
-│   └── README.md
-│
-├── Testes/                 # Scripts para testar os contratos
-│   ├── test_registry.js    # Testes do sistema de registro
-│   ├── test_token.js       # Testes do token de licenciamento
-│   └── README.md
-│
-└── Contribuicoes.md        # Como outros podem contribuir
+# 📌 Estrutura do Orpheus Blockchain  
+
+Este documento define a organização dos arquivos e diretórios do **Orpheus Blockchain**, facilitando a navegação e o desenvolvimento colaborativo.  
+
+---
+
+## 📂 **1. Estrutura Geral do Repositório**  
+
+📂 orpheus-blockchain/ ├── 📜 README.md # Introdução ao projeto ├── 📜 VisaoGeral.md # Explicação técnica sobre o funcionamento ├── 📂 docs/ # Documentação detalhada │ ├── 📜 Whitepaper.md # Documento técnico completo │ ├── 📜 API-Docs.md # Endpoints e integração com a Blockchain Orpheus │ ├── 📜 SmartContracts.md # Guia para contratos inteligentes vetoriais │ └── 📜 Roadmap.md # Planejamento das futuras implementações ├── 📂 contratos/ # Contratos inteligentes em Solidez │ ├── 📜 MoedaAGro.sol # Implementação da moeda AGro │ ├── 📜 IVS-Protocol.sol # Índice Vetorialético de Sustentabilidade │ ├── 📜 OrpheusDAO.sol # Smart Contract para governança descentralizada │ ├── 📜 Transactions.sol # Lógica de transações contínuas │ └── 📜 Security.sol # Módulo de segurança e validação de fluxos ├── 📂 src/ # Código-fonte da Blockchain Orpheus │ ├── 📂 core/ # Módulos principais da Blockchain │ ├── 📂 rede/ # Comunicação entre nós descentralizados │ ├── 📂 consenso/ # Algoritmo de consenso vetorialético │ ├── 📂 storage/ # Gerenciamento de dados e ressonância contínua │ └── 📜 main.js # Arquivo principal da blockchain ├── 📂 testes/ # Testes unitários e de integração │ ├── 📜 test-MoedaAGro.js # Testes do contrato da moeda AGro │ ├── 📜 test-IVS.js # Testes do Índice Vetorialético de Sustentabilidade │ ├── 📜 test-DAO.js # Testes de governança descentralizada │ └── 📜 test-Transactions.js # Testes de transações contínuas ├── 📂 scripts/ # Scripts auxiliares │ ├── 📜 deploy.js # Script de implantação na testnet/mainnet │ ├── 📜 monitor.js # Monitoramento do fluxo de transações │ ├── 📜 Optimize.js # Ferramentas para otimização do desempenho │ └── 📜 update-IVS.js # Atualização automática do IVS ├── 📜 .gitignore # Arquivos que não devem ser versionados ├── 📜 truffe-config.js # Configuração do Truffle para deploy └── 📜 pacote.json #
