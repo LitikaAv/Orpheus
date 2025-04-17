@@ -1,6 +1,6 @@
 # 📂 **Orpheus Blockchain - Estrutura do Repositório**  
 
-## **2. Descrição dos Diretórios**  
+## **Diretórios**  
 
 ### 📂 **API/** – Backend e integração da Orpheus Blockchain  
 ✅ Contém o **backend** necessário para interação com os contratos inteligentes.  
@@ -26,7 +26,7 @@
 
 ---
 
-## 📌 **3. Como Contribuir?**  
+## 📌 **Como Contribuir?**  
 
 1️⃣ **Clone o repositório:**  
 ```bash
