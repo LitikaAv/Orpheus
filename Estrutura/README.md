@@ -1,6 +1,5 @@
 # 📂 **Orpheus Blockchain - Estrutura do Repositório**  
 
-Este repositório contém os arquivos e diretórios necessários para o desenvolvimento da **Orpheus Blockchain**, baseada na **Física Sem Partículas (FSP), Modelo Núvem e Vetorialética**.  
 
 ---
 
