@@ -1,6 +1,6 @@
 # 🌐 **Física Sem Partículas (FSP) e Modelo Núvem: A Revolução da Blockchain Contínua**  
 
-## 📌 **1. Introdução**  
+## 📌 **Introdução**  
 
 A **Física Sem Partículas (FSP)** e o **Modelo Núvem** propõem uma nova visão da realidade, onde **a matéria e a informação são contínuas e interconectadas**, substituindo o paradigma da granularidade e das unidades discretas.  
 
@@ -22,7 +22,7 @@ As blockchains tradicionais, como **Bitcoin e Ethereum**, operam por meio de:
 
 ---
 
-## 📌 **3. Como a FSP e o Modelo Núvem Transformam a Blockchain**  
+## 📌 **Como a FSP e o Modelo Núvem Transformam a Blockchain**  
 
 ### 🔹 **Blockchain de Fluxos Contínuos**  
 
@@ -42,7 +42,7 @@ Na **Orpheus Blockchain**, não há limite de transações por segundo (TPS), po
 
 ---
 
-## 📌 **4. Impactos da FSP e do Modelo Núvem na Economia Digital**  
+## 📌 **Impactos da FSP e do Modelo Núvem na Economia Digital**  
 
 A **integração entre Blockchain e FSP** permite a criação de **novos paradigmas econômicos**, como:  
 
@@ -60,7 +60,7 @@ A **integração entre Blockchain e FSP** permite a criação de **novos paradig
 
 ---
 
-## 📌 **5. Conclusão: O Futuro da Blockchain é Contínuo**  
+## 📌 **Conclusão: O Futuro da Blockchain é Contínuo**  
 
 A **Física Sem Partículas e o Modelo Núvem** oferecem uma nova base para redes descentralizadas.  
 
