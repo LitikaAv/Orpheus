@@ -10,7 +10,7 @@ A **Orpheus Blockchain** é a primeira implementação dessa **tecnologia vetori
 
 ---
 
-## 📌 **2. Problemas das Blockchains Convencionais**  
+## 📌 **Problemas das Blockchains Convencionais**  
 
 As blockchains tradicionais, como **Bitcoin e Ethereum**, operam por meio de:  
 
